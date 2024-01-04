@@ -20,4 +20,8 @@ staged (file is ready to be committed)
 unmodified (unchanged)
 
 git add <file name or use . for all add file>
-git commir -m "Some message" 
+git commit -m "Some message" 
+
+Push Command
+
+git push origin main (push - upload repo content to remote repo)
