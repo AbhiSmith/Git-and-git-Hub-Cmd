@@ -13,3 +13,11 @@ Clone & Status
 git clone <- some link ->
 git  status
 
+See Hidden file => ls -alias
+untracked (new file that git doesn't yet track)
+modified (changed)
+staged (file is ready to be committed)
+unmodified (unchanged)
+
+git add <file name or use . for all add file>
+git commir -m "Some message" 
